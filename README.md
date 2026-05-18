@@ -5,7 +5,11 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Python+Developer;Full+Stack+Learner;Machine+Learning+Learner;Future+Software+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Java+Developer;Python+Developer;Full+Stack+Learner;Machine+Learning+Learner;GATE+2028+Aspirant">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=VedPatel41&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -16,7 +20,7 @@
 - 💻 Skilled in Java, Python, DBMS & Web Development
 - 🚀 Currently learning Machine Learning using Python
 - 🌱 Exploring React.js, Express.js & APIs
-- 🎯 Goal: Become a Full Stack & Software Engineer
+- 🎯 Goal: Crack GATE 2028
 - ⚡ Interested in Gaming, AI & Backend Development
 
 ---
@@ -131,6 +135,14 @@
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=VedPatel41&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -139,11 +151,13 @@
 
 ---
 
-# 👀 Profile Views
+# ⚡ Current Focus
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=VedPatel41&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+- 📘 Preparing for GATE 2028
+- 💻 Building Full Stack Projects
+- 🤖 Learning Machine Learning
+- ⚙️ Improving DSA & Problem Solving
+- 🚀 Exploring Backend Development
 
 ---
 
