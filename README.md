@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ved Patel</h1>
 
 <h3 align="center">
-🚀 Computer Engineering Student | Java Developer | Python & Web Developer
+🚀 Computer Engineering Student | Java Developer | Python & Full Stack Learner
 </h3>
 
 <p align="center">
@@ -15,9 +15,29 @@
 - 🎓 B.Tech Computer Engineering Student
 - 💻 Skilled in Java, Python, DBMS & Web Development
 - 🚀 Currently learning Machine Learning using Python
-- 🌱 Exploring React, Express.js & APIs
+- 🌱 Exploring React.js, Express.js & APIs
 - 🎯 Goal: Become a Full Stack & Software Engineer
 - ⚡ Interested in Gaming, AI & Backend Development
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/VedPatel41">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/ved-patel-0bb446376">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://leetcode.com/u/ved_patel_41/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+
+</p>
 
 ---
 
@@ -36,6 +56,8 @@
 <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react">
 
@@ -58,6 +80,7 @@
 # 🚀 Featured Projects
 
 ## 🌾 Smart Agriculture Project
+
 🔹 Built using HTML, CSS & JavaScript  
 🔹 Integrated APIs for dynamic data  
 🔹 Responsive frontend project  
@@ -65,13 +88,15 @@
 ---
 
 ## 📚 Book Rental System
+
 🔹 Java + JDBC + MySQL project  
 🔹 Uses DBMS & Data Structures concepts  
-🔹 Admin/User Management System  
+🔹 Admin/User Login & Management System  
 
 ---
 
 ## 🚗 Smart Vehicle Registration & Licensing
+
 🔹 Python based project  
 🔹 Built using Streamlit  
 🔹 Uses NumPy & Pandas for data handling  
@@ -79,9 +104,10 @@
 ---
 
 ## ⚛️ SEM-4 Full Stack Learning
+
 🔹 Advanced JavaScript Concepts  
 🔹 JSON & API Handling  
-🔹 Express.js & React Learning Projects  
+🔹 Express.js & React.js Learning Projects  
 
 ---
 
@@ -113,18 +139,10 @@
 
 ---
 
-# 🌐 Connect With Me
+# 👀 Profile Views
 
 <p align="left">
-
-<a href="https://github.com/VedPatel41">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/ved_patel_41/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white">
-</a>
-
+<img src="https://komarev.com/ghpvc/?username=VedPatel41&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
